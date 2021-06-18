@@ -19,7 +19,7 @@ You can compute the SVF based on the building height model. There are two most c
 ### 4. GPU parralel computing for SVF
 Using GPU parallel computing, you can make the SVF computing much much faster!!!!!!!!!!!!! Here are two GPU-accelerated algorithms, GPU-based shadow casting algorithm, and GPU-based ray-tracing algorithm. 
 
-1. GPU-based shadow casting [link]()
+1. GPU-based shadow casting [link](gpu/pycuda-svf-shadowcasting.ipynb)
 2. GPU-based ray-tracing algorithm [link](gpu/pycuda-svf-raytracing.ipynb)
 
 
